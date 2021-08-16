@@ -28,7 +28,7 @@ df.head()
 * Trim data to one year
 * Use supplemental trend vs noise visualizations to help in data selection
 
-![](Images/AUD_trend.png)
+![](Images/EUR_trend.png)
 
 ## Predicted vs. Real values:
 
