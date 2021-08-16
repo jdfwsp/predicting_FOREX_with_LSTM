@@ -5,7 +5,7 @@
 * Top 7 FOREX vs USD
 * Standard financial features: Open, High, Low, <b>Close</b>, Volume
 * "Daily" entries
-* Downloaded from [TradingView](https://www.tradingview.com)
+* Downloaded from [Oanda](https://www.oanda.com/fx-for-business/historical-rates)
 
 ## Model chosen: Long Short-Term Memory (LSTM)
 * Well-suited for making predictions based on our type of data
